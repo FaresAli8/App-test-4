@@ -1,0 +1,8 @@
+{
+    "type": "android_kotlin_compose",
+    "gradle_type": "kts",
+    "min_sdk": 24,
+    "target_sdk": 34,
+    "build_tool": "gradle",
+    "features": ["camera", "qr_scan", "qr_generate"]
+}
